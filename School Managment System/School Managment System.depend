@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1771105424 source:d:\eraasoft\c++\school managment system\main.cpp
+	<iostream>
+	<Person.h>
+	<Student.h>
+	<Teacher.h>
+	<Staff.h>
+	<Course.h>
+	<School.h>
+	<ClassRoom.h>
+
+1771105940 d:\eraasoft\c++\school managment system\include\person.h
+	<iostream>
+
+1771102548 d:\eraasoft\c++\school managment system\include\student.h
+	<iostream>
+	<Person.h>
+
+1771102548 d:\eraasoft\c++\school managment system\include\teacher.h
+	<iostream>
+	<Person.h>
+
+1771102548 d:\eraasoft\c++\school managment system\include\staff.h
+	<iostream>
+	<Person.h>
+
+1771102548 d:\eraasoft\c++\school managment system\include\course.h
+	<iostream>
+
+1771106084 d:\eraasoft\c++\school managment system\include\school.h
+	<iostream>
+	<Person.h>
+	<Student.h>
+	<Teacher.h>
+	<Staff.h>
+	<Course.h>
+	<ClassRoom.h>
+
+1771102548 d:\eraasoft\c++\school managment system\include\classroom.h
+	<iostream>
+
